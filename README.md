@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=19,3,24&height=200&section=header&text=HR%20Analytics%20Dashboard&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Predict%20Attrition%20•%20Retain%20Talent&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=19,13,24&height=200&section=header&text=HR%20Analytics%20Dashboard&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Predict%20Attrition%20•%20Retain%20Talent&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=👔+Analyze+Employee+Attrition;🎯+Predict+Who+Will+Leave;💰+Save+%24950K%2B+Annually;😊+Improve+Satisfaction"/>
@@ -58,10 +58,32 @@
 <div align="center">
 <img width="403" height="262" alt="image" src="https://github.com/user-attachments/assets/520bf48a-f302-41d9-9355-859a7095342b" />
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><div align="center">
-Estimated annual savings: $950K — $1.4M 💰
+<div align="center">
+
+## 🤝 Let's Build Together
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3500&pause=800&color=A855F7&center=true&vCenter=true&width=500&lines=Open+to+collaborations+%F0%9F%A4%9D;Available+for+freelance+work+%F0%9F%92%BC;Let's+create+something+awesome!+%E2%9C%A8" alt="Typing" />
+</a>
+
+<br/><br/>
+
+<p>
+  <a href="/www.linkedin.com/in/anushree-saha-4bb3a4368">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" height="30"/>
+  </a>
+  <a href="mailto:riyaggit58#gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836" height="30"/>
+  </a>
+  <a href="https://github.com/12Anushree">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" height="30"/>
+  </a>
+</p>
 
 <br/>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+**⭐ If this project helped you, please star it — it means a lot!**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
