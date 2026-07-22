@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=19,13,24&height=200&section=header&text=HR%20Analytics%20Dashboard&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Predict%20Attrition%20•%20Retain%20Talent&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7c2d12,20:9a3412,40:ea580c,65:f97316,85:fbbf24,100:fef3c74&height=200&section=header&text=HR%20Analytics%20Dashboard&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Predict%20Attrition%20•%20Retain%20Talent&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=👔+Analyze+Employee+Attrition;🎯+Predict+Who+Will+Leave;💰+Save+%24950K%2B+Annually;😊+Improve+Satisfaction"/>
@@ -12,16 +12,16 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 The Problem
+## 🎯 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50"> The Problem
 
 <div align="center">
 
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔥 Top Attrition Drivers
 
@@ -41,7 +41,7 @@
 <img width="722" height="411" alt="image" src="https://github.com/user-attachments/assets/75b55ef2-1fe3-4cc6-8935-9b11ac4ebd06" />
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏢 Attrition by Department
 
@@ -51,14 +51,14 @@
 <img width="352" height="206" alt="image" src="https://github.com/user-attachments/assets/37014bb6-d7fe-4bab-99fd-60570382b12a" />
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤖 Prediction Model
 
 <div align="center">
 <img width="403" height="262" alt="image" src="https://github.com/user-attachments/assets/520bf48a-f302-41d9-9355-859a7095342b" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -74,7 +74,7 @@
   <a href="/www.linkedin.com/in/anushree-saha-4bb3a4368">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" height="30"/>
   </a>
-  <a href="mailto:riyaggit58#gmail.com">
+  <a href="mailto:riyaggit58@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836" height="30"/>
   </a>
   <a href="https://github.com/12Anushree">
@@ -84,6 +84,5 @@
 
 <br/>
 
-**⭐ If this project helped you, please star it — it means a lot!**
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+**⭐If this project helped you, please star it — it means a lot!**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
